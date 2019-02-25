@@ -2,8 +2,8 @@
 
 Igor Shturmak
 
-Codecademy
+##Codecademy
 HTML CSS Basics: https://www.codecademy.com/users/Shtig/achievements
 
-HTMLacademy
+##HTMLacademy
 https://htmlacademy.ru/profile/id333199/achievements
